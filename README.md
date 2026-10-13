@@ -1,4 +1,4 @@
-# 運動部新聞網
+# 運動新聞網
 
 網址：https://web14.subsidyking.tw/（備用 https://tommyliu2009.github.io/sports-news/）
 
