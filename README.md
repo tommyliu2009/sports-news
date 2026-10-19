@@ -14,4 +14,4 @@
 - 報告：`/workspace/reports/localnews_YYYYMMDD.md`
 
 分類：政策、補助、標案、預算、綜合新聞。摘要附原文連結，不轉載全文。
-廣告：仁禾管理顧問／劉靜渡／tommyliu2009@gmail.com／LINE 官方帳號：@891tcxhu
+廣告：仁禾管理顧問／renhe74123@gmail.com／LINE 官方帳號：@891tcxhu
