@@ -4,11 +4,14 @@
 
 - 網址：https://web14.subsidyking.tw/
 - 主題：運動部新聞與運動政策
-- 更新：2026-10-24（每日自動更新）
+- 更新：2026-10-25（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-25 運動部全球資訊網-新聞專區-全齡共享運動新空間運動部補助臺中市烏日全民運動館正式啟用：https://www.sports.gov.tw/News_Content/309/23969
+- 2026-10-24 艾格探險有限公司-115年登山嚮導新訓課程第303場次：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=MTG&MENU_PRG_CD=1&ITEM_PRG_CD=4&PKNO=7044
+- 2026-10-24 中正陸橋下方籃球場：https://iplay.sports.gov.tw/gyminfo/index/30775?page=12&RentState=F&SportCenter=False&title=%u9801%u6578&PP=Traffic&facilityName=%u6a39%u6797%u516c%u5712%u7c43%u7403%u5834%u9928&facilityName=%u7c43%u7403%u5834%u9928
 - 2026-10-23 【緊急公告】10/24國民體適能指導員強化課程(師大)因颱風延期至10/25-26辦理(含課程調動)：https://isports.sa.gov.tw/apps/Essay.aspx?SYS=TIS&MENU_PRG_CD=2&ITEM_PRG_CD=4&PKNO=7521
 - 2026-10-23 前鎮國小游泳池(館)：https://iplay.sports.gov.tw/GymInfo/IndexPrint/10102
 - 2026-10-22 115/10/23(五)救生員授證業務暫停客服：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7520
@@ -31,9 +34,6 @@
 - 2026-10-16 【公開招標】115年度電動車及充電設備採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261016&fn=TIQ-1-71137596.xml
 - 2026-10-16 【公開招標】115年體育聯合辦公大樓資訊機房設置案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261016&fn=TIQ-1-71138287.xml
 - 2026-10-16 臺中市國際壘球運動園區：https://iplay.sports.gov.tw/gyminfo/index/30547?page=38&sort=%u4f9d%u8a55%u5206%u6392%u5e8f&title=%u9801%u6578&PP=Traffic&facilityName=%E8%87%BA%E4%B8%AD%E5%B8%82%E5%9C%8B%E9%9A%9B%E5%A3%98%E7%90%83%E9%81%8B%E5%8B%95%E5%9C%92%E5%8D%80
-- 2026-10-16 揮出新活力！全民運動署攜手國衛院推廣匹克球 引導樂齡運動新風潮：https://www.sports.gov.tw/News_Content/309/23264
-- 2026-10-16 布袋鎮新塭體育運動公園(籃球場、壘球場)：https://iplay.sports.gov.tw/gyminfo/index/7195?page=10&RentState=F&SportCenter=False&title=%u9801%u6578
-- 2026-10-15 115.10.18 北一區 新莊國民運動中心游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=LGM&MENU_PRG_CD=1&ITEM_PRG_CD=&PKNO=7505
 
 ## 相關網站
 - 獎補助資訊網：https://grantking.subsidyking.tw/
