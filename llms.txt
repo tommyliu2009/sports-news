@@ -1,0 +1,42 @@
+# 運動部新聞網
+
+> 本網站每日自動彙整運動部及相關機關發布的新聞，提供最新運動政策資訊。每則新聞均附原始出處連結與發布日期，方便讀者查證與追蹤。
+
+- 網址：https://web14.subsidyking.tw/
+- 主題：運動部新聞與運動政策
+- 更新：2026-10-24（每日自動更新）
+- 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
+- 維護：仁禾管理顧問
+
+## 最新內容
+- 2026-10-23 【緊急公告】10/24國民體適能指導員強化課程(師大)因颱風延期至10/25-26辦理(含課程調動)：https://isports.sa.gov.tw/apps/Essay.aspx?SYS=TIS&MENU_PRG_CD=2&ITEM_PRG_CD=4&PKNO=7521
+- 2026-10-23 前鎮國小游泳池(館)：https://iplay.sports.gov.tw/GymInfo/IndexPrint/10102
+- 2026-10-22 115/10/23(五)救生員授證業務暫停客服：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7520
+- 2026-10-22 【重要公告】115/11/9(一)澎湖縣立游泳池檢定場次場地改至國立澎湖高級海事水產職業學校辦理：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=LGM&MENU_CD=M10&ITEM_CD=T01&MENU_PRG_CD=1&PKNO=7519
+- 2026-10-22 運動部全球資訊網-推升內需-推動「臺灣品牌國際賽事計畫」：https://www.sports.gov.tw/CP/7825
+- 2026-10-21 2026面山面海論壇：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=46439
+- 2026-10-20 【決標】「2026總統盃全民運動賽事附加活動規劃」採辦案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261020&fn=BDM-1-71309513.xml
+- 2026-10-20 【公開取得報價單或企劃書】「智慧羽球示範場域建置及驗證服務案」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261020&fn=TIQ-11-71139992.xml
+- 2026-10-20 【公開取得報價單或企劃書】臺灣運動產業市場趨勢及產值分析案 採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261020&fn=ttd-71357639.xml
+- 2026-10-20 宜蘭縣鐵人三項運動訓練中心：https://iplay.sports.gov.tw/gyminfo/index/22432?page=227&title=%u9801%u6578&facilityName=%u6e38%u6cf3%u6c60(%u9928)&PP=Traffic
+- 2026-10-20 運動部全球資訊網-新聞專區-打造國境之南優質室內運動場館運動部補助屏東縣大同羽球館動土啟建：https://www.sports.gov.tw/News_Content/309/23961
+- 2026-10-19 雲林縣立滑輪溜冰場：https://iplay.sports.gov.tw/gyminfo/index/33450?tpage736&title=%u9801%u6578
+- 2026-10-19 我國選手蕭翔文勇奪愛知名古屋亞帕運跆拳道金牌 賴清德總統致電申賀：https://www.sports.gov.tw/News_Content/309/23959
+- 2026-10-18 115/10/19(一)救生員授證業務暫停客服 【救生員授證業務暫停服務公告】：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7508
+- 2026-10-18 115年山海運動聚落、聚樂、俱樂部公私共推計畫：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=46406
+- 2026-10-18 運動部全球資訊網-新聞專區-運動部補助興建南投縣草屯樂活運動館動土典禮：https://www.sports.gov.tw/News_Content/309/23960
+- 2026-10-17 115年全國登山日系列活動推廣計畫：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=46354
+- 2026-10-17 大湖鄉「華興蕨起」華興國民小學暨富興村聯合運動健康嘉年華：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=3&PKNO=45922
+- 2026-10-17 115年全民運盛大登場 展現全民運動活力：https://www.sports.gov.tw/News_Content/309/23956
+- 2026-10-16 【公開招標】115年度電動車及充電設備採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261016&fn=TIQ-1-71137596.xml
+- 2026-10-16 【公開招標】115年體育聯合辦公大樓資訊機房設置案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261016&fn=TIQ-1-71138287.xml
+- 2026-10-16 臺中市國際壘球運動園區：https://iplay.sports.gov.tw/gyminfo/index/30547?page=38&sort=%u4f9d%u8a55%u5206%u6392%u5e8f&title=%u9801%u6578&PP=Traffic&facilityName=%E8%87%BA%E4%B8%AD%E5%B8%82%E5%9C%8B%E9%9A%9B%E5%A3%98%E7%90%83%E9%81%8B%E5%8B%95%E5%9C%92%E5%8D%80
+- 2026-10-16 揮出新活力！全民運動署攜手國衛院推廣匹克球 引導樂齡運動新風潮：https://www.sports.gov.tw/News_Content/309/23264
+- 2026-10-16 布袋鎮新塭體育運動公園(籃球場、壘球場)：https://iplay.sports.gov.tw/gyminfo/index/7195?page=10&RentState=F&SportCenter=False&title=%u9801%u6578
+- 2026-10-15 115.10.18 北一區 新莊國民運動中心游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=LGM&MENU_PRG_CD=1&ITEM_PRG_CD=&PKNO=7505
+
+## 相關網站
+- 獎補助資訊網：https://grantking.subsidyking.tw/
+- 補助王：https://www.subsidyking.tw/
+- 台灣政府補助新聞網：https://news.subsidyking.tw/
+- 仁禾管理顧問：https://web18.subsidyking.tw/
