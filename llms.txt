@@ -4,15 +4,18 @@
 
 - 網址：https://web14.subsidyking.tw/
 - 主題：運動部新聞與運動政策
-- 更新：2026-10-27（每日自動更新）
+- 更新：2026-10-28（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-27 215隊爭奪冠軍錦旗 第14屆中信盃黑豹旗全國高中棒球大賽熱血開打：https://www.sports.gov.tw/News_Content/309/23975
+- 2026-10-27 歡樂活力舞啦啦第二期-「爵」定愛上你：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=3&PKNO=45662
 - 2026-10-25 運動部全球資訊網-新聞專區-全齡共享運動新空間運動部補助臺中市烏日全民運動館正式啟用：https://www.sports.gov.tw/News_Content/309/23969
 - 2026-10-24 艾格探險有限公司-115年登山嚮導新訓課程第303場次：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=MTG&MENU_PRG_CD=1&ITEM_PRG_CD=4&PKNO=7044
 - 2026-10-24 中正陸橋下方籃球場：https://iplay.sports.gov.tw/gyminfo/index/30775?page=12&RentState=F&SportCenter=False&title=%u9801%u6578&PP=Traffic&facilityName=%u6a39%u6797%u516c%u5712%u7c43%u7403%u5834%u9928&facilityName=%u7c43%u7403%u5834%u9928
 - 2026-10-24 中華民國山岳協會--116年登山嚮導新訓課程第332場次（玉山假日班）：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=MTG&MENU_PRG_CD=1&ITEM_PRG_CD=4&PKNO=7495
+- 2026-10-24 愛知名古屋亞帕運代表團榮耀返國 行政院鄭麗君副院長設宴迎接：https://www.sports.gov.tw/News_Content/309/23977
 - 2026-10-23 【緊急公告】10/24國民體適能指導員強化課程(師大)因颱風延期至10/25-26辦理(含課程調動)：https://isports.sa.gov.tw/apps/Essay.aspx?SYS=TIS&MENU_PRG_CD=2&ITEM_PRG_CD=4&PKNO=7521
 - 2026-10-23 前鎮國小游泳池(館)：https://iplay.sports.gov.tw/GymInfo/IndexPrint/10102
 - 2026-10-23 【決標】115年太平洋運動人才培育計畫-協助帛琉共和國棒球、桌球及舉重運動選手赴臺移地訓練計畫勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261023&fn=BDM-1-71313871.xml
@@ -30,10 +33,7 @@
 - 2026-10-22 【決標】115年度MATLAB軟體IWL授權租用採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261022&fn=BDM-1-71312003.xml
 - 2026-10-22 【公開取得報價單或企劃書】116年度餐廳購買西點麵包(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261022&fn=ttd-71360348.xml
 - 2026-10-22 【公開取得報價單或企劃書】116年度員工團體傷害保險採購案(開口契約 )：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261022&fn=TIQ-11-71141780.xml
-- 2026-10-21 2026面山面海論壇：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=46439
-- 2026-10-21 115年全民運動會圓滿落幕 凝聚運動榮耀與城市力量：https://www.sa.gov.tw/News_Content/362/23971
-- 2026-10-21 【經公開評選或公開徵求之限制性招標】115年度強化投資運動產業先期作業委託專業服務案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261021&fn=TIQ-3-71140941.xml
-- 2026-10-21 【決標】「拓展運動聯賽品牌合作計畫」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261021&fn=BDM-1-71310314.xml
+- 2026-10-22 苗栗市中苗高架橋下籃球場：https://iplay.sports.gov.tw/gyminfo/index/33444?tpage560&title=%u9801%u6578
 
 ## 相關網站
 - 獎補助資訊網：https://www.grantking.tw/
