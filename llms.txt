@@ -4,13 +4,21 @@
 
 - 網址：https://web14.subsidyking.tw/
 - 主題：運動部新聞與運動政策
-- 更新：2026-10-28（每日自動更新）
+- 更新：2026-10-29（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-28 好棒x就是棒 社區棒球秋季聯賽-U15女子組：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=1&PKNO=46562
+- 2026-10-28 2026年第18屆陽明山盃全國三級棒球錦標賽：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=1&PKNO=46544
+- 2026-10-28 我國選手林姿妤與田曉雯勇奪愛知名古屋亞帕運桌球女子雙打金牌 賴清德總統致電申賀：https://www.sports.gov.tw/News_Content/309/23972
+- 2026-10-28 完善全民運動環境 打造健康樂活臺東 運動部補助臺東縣全民運動館開幕啟用：https://www.sports.gov.tw/News_Content/309/23973
+- 2026-10-28 【公開招標】115年度伺服器暨周邊設備採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=TIQ-1-71145498.xml
+- 2026-10-28 【決標】2026年第20屆名古屋亞洲運動會名古屋市中繼站場地租賃及維運服務案第2次契約變更：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=BDM-1-71315108.xml
 - 2026-10-27 215隊爭奪冠軍錦旗 第14屆中信盃黑豹旗全國高中棒球大賽熱血開打：https://www.sports.gov.tw/News_Content/309/23975
 - 2026-10-27 歡樂活力舞啦啦第二期-「爵」定愛上你：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=3&PKNO=45662
+- 2026-10-27 我國參加2026年世界競技體操錦標賽榮獲男子單槓項目金牌 賴清德總統致賀電肯定選手：https://www.sports.gov.tw/News_Content/309/23976
+- 2026-10-26 愛知名古屋亞帕運圓滿閉幕 臺灣代表團勇奪4金7銀9銅 林姿妤單屆3金寫下新紀錄：https://www.sports.gov.tw/News_Content/309/23974
 - 2026-10-25 運動部全球資訊網-新聞專區-全齡共享運動新空間運動部補助臺中市烏日全民運動館正式啟用：https://www.sports.gov.tw/News_Content/309/23969
 - 2026-10-24 艾格探險有限公司-115年登山嚮導新訓課程第303場次：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=MTG&MENU_PRG_CD=1&ITEM_PRG_CD=4&PKNO=7044
 - 2026-10-24 中正陸橋下方籃球場：https://iplay.sports.gov.tw/gyminfo/index/30775?page=12&RentState=F&SportCenter=False&title=%u9801%u6578&PP=Traffic&facilityName=%u6a39%u6797%u516c%u5712%u7c43%u7403%u5834%u9928&facilityName=%u7c43%u7403%u5834%u9928
@@ -26,14 +34,6 @@
 - 2026-10-22 【公開招標】115-116年度多源基因體定序與分析採購案(開口契約)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261022&fn=TIQ-1-71142071.xml
 - 2026-10-22 【經公開評選或公開徵求之限制性招標】運動部全民運動署「116年推動社區運動俱樂部計畫-專案管理服務」勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261022&fn=TIQ-3-71141908.xml
 - 2026-10-22 【決標】「亞運精英運動員卡」數位服務平台建置勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261022&fn=BDM-1-71312387.xml
-- 2026-10-22 【公開招標】116年度餐廳購買南北雜貨(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261022&fn=TIQ-1-71142389.xml
-- 2026-10-22 【決標】115年度光纖網路交換器設備採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261022&fn=BDM-1-71311857.xml
-- 2026-10-22 【經公開評選或公開徵求之限制性招標】運動部全民運動署「潛水指導人員輔導與管理策略研究計畫」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261022&fn=TIQ-3-71142486.xml
-- 2026-10-22 【決標】115年度球類館技擊館冰水空調設備改善：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261022&fn=BDM-1-71311694.xml
-- 2026-10-22 【決標】115年度MATLAB軟體IWL授權租用採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261022&fn=BDM-1-71312003.xml
-- 2026-10-22 【公開取得報價單或企劃書】116年度餐廳購買西點麵包(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261022&fn=ttd-71360348.xml
-- 2026-10-22 【公開取得報價單或企劃書】116年度員工團體傷害保險採購案(開口契約 )：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261022&fn=TIQ-11-71141780.xml
-- 2026-10-22 苗栗市中苗高架橋下籃球場：https://iplay.sports.gov.tw/gyminfo/index/33444?tpage560&title=%u9801%u6578
 
 ## 相關網站
 - 獎補助資訊網：https://www.grantking.tw/
