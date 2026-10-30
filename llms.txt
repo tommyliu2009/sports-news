@@ -4,11 +4,15 @@
 
 - 網址：https://web14.subsidyking.tw/
 - 主題：運動部新聞與運動政策
-- 更新：2026-10-30（每日自動更新）
+- 更新：2026-10-31（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-31 2026年合球下鄉紮根計畫：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=46488
+- 2026-10-31 2026就是棒全國社區棒球秋季聯賽：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=1&PKNO=46561
+- 2026-10-31 2026全民多元運動一起來：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=46509
+- 2026-10-30 大溪區僑愛社區發展協會理事長盃槌球錦標賽：https://isports.sa.gov.tw/Apps/TIS/TIS02/TIS0201M_02V1.aspx?SYS=TIS&MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=44973&ACT_SOURCE_TP_CD=02
 - 2026-10-29 115.11.01 北二區 國立中央大學游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7523
 - 2026-10-29 115.10.31 東區 國立東華大學游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7522
 - 2026-10-29 115年連江縣體育會 匹克球運動推廣班系列活動(9-10月)：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=45992
@@ -30,10 +34,6 @@
 - 2026-10-26 愛知名古屋亞帕運圓滿閉幕 臺灣代表團勇奪4金7銀9銅 林姿妤單屆3金寫下新紀錄：https://www.sports.gov.tw/News_Content/309/23974
 - 2026-10-25 運動部全球資訊網-新聞專區-全齡共享運動新空間運動部補助臺中市烏日全民運動館正式啟用：https://www.sports.gov.tw/News_Content/309/23969
 - 2026-10-24 艾格探險有限公司-115年登山嚮導新訓課程第303場次：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=MTG&MENU_PRG_CD=1&ITEM_PRG_CD=4&PKNO=7044
-- 2026-10-24 中正陸橋下方籃球場：https://iplay.sports.gov.tw/gyminfo/index/30775?page=12&RentState=F&SportCenter=False&title=%u9801%u6578&PP=Traffic&facilityName=%u6a39%u6797%u516c%u5712%u7c43%u7403%u5834%u9928&facilityName=%u7c43%u7403%u5834%u9928
-- 2026-10-24 中華民國山岳協會--116年登山嚮導新訓課程第332場次（玉山假日班）：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=MTG&MENU_PRG_CD=1&ITEM_PRG_CD=4&PKNO=7495
-- 2026-10-24 愛知名古屋亞帕運代表團榮耀返國 行政院鄭麗君副院長設宴迎接：https://www.sports.gov.tw/News_Content/309/23977
-- 2026-10-23 【緊急公告】10/24國民體適能指導員強化課程(師大)因颱風延期至10/25-26辦理(含課程調動)：https://isports.sa.gov.tw/apps/Essay.aspx?SYS=TIS&MENU_PRG_CD=2&ITEM_PRG_CD=4&PKNO=7521
 
 ## 相關網站
 - 獎補助資訊網：https://www.grantking.tw/
