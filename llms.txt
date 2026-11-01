@@ -4,15 +4,23 @@
 
 - 網址：https://web14.subsidyking.tw/
 - 主題：運動部新聞與運動政策
-- 更新：2026-11-01（每日自動更新）
+- 更新：2026-11-02（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-01 第52屆全國登山社團大會師：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=46355
+- 2026-11-01 「藍海練習生」多元族群 SUP 體驗與親水永續推廣計畫：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=46530
 - 2026-10-31 2026年合球下鄉紮根計畫：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=46488
 - 2026-10-31 2026就是棒全國社區棒球秋季聯賽：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=1&PKNO=46561
 - 2026-10-31 2026全民多元運動一起來：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=46509
 - 2026-10-30 大溪區僑愛社區發展協會理事長盃槌球錦標賽：https://isports.sa.gov.tw/Apps/TIS/TIS02/TIS0201M_02V1.aspx?SYS=TIS&MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=44973&ACT_SOURCE_TP_CD=02
+- 2026-10-30 精進水域告示標示 借鏡荷蘭推廣著衣求生：https://www.sports.gov.tw/News_Content/309/23994
+- 2026-10-30 【決標】115-116年度運動教練職能訓練營外住宿(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=BDM-1-71317834.xml
+- 2026-10-30 【經公開評選或公開徵求之限制性招標】116年度體育聯合辦公大樓機電消防空調系統設備保養維護案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-3-71147221.xml
+- 2026-10-30 【公開招標】116年度餐廳購買冷凍牛羊肉(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-1-71148321.xml
+- 2026-10-30 【公開招標】116年度餐廳購買冷凍調理食品(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-1-71148378.xml
+- 2026-10-30 【公開取得報價單或企劃書】115年度購置拳擊擂臺1座案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=ttd-71367601.xml
 - 2026-10-29 115.11.01 北二區 國立中央大學游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7523
 - 2026-10-29 115.10.31 東區 國立東華大學游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7522
 - 2026-10-29 115年連江縣體育會 匹克球運動推廣班系列活動(9-10月)：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=45992
@@ -26,14 +34,6 @@
 - 2026-10-28 我國選手林姿妤與田曉雯勇奪愛知名古屋亞帕運桌球女子雙打金牌 賴清德總統致電申賀：https://www.sports.gov.tw/News_Content/309/23972
 - 2026-10-28 完善全民運動環境 打造健康樂活臺東 運動部補助臺東縣全民運動館開幕啟用：https://www.sports.gov.tw/News_Content/309/23973
 - 2026-10-28 【公開招標】115年度伺服器暨周邊設備採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=TIQ-1-71145498.xml
-- 2026-10-28 【決標】2026年第20屆名古屋亞洲運動會名古屋市中繼站場地租賃及維運服務案第2次契約變更：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=BDM-1-71315108.xml
-- 2026-10-27 215隊爭奪冠軍錦旗 第14屆中信盃黑豹旗全國高中棒球大賽熱血開打：https://www.sports.gov.tw/News_Content/309/23975
-- 2026-10-27 歡樂活力舞啦啦第二期-「爵」定愛上你：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=3&PKNO=45662
-- 2026-10-27 我國參加2026年世界競技體操錦標賽榮獲男子單槓項目金牌 賴清德總統致賀電肯定選手：https://www.sports.gov.tw/News_Content/309/23976
-- 2026-10-27 2026全民運動賽事-總統盃3對3籃球賽 全國決賽10月31日凱道熱血登場：https://www.sa.gov.tw/News_Content/362/23984
-- 2026-10-26 愛知名古屋亞帕運圓滿閉幕 臺灣代表團勇奪4金7銀9銅 林姿妤單屆3金寫下新紀錄：https://www.sports.gov.tw/News_Content/309/23974
-- 2026-10-25 運動部全球資訊網-新聞專區-全齡共享運動新空間運動部補助臺中市烏日全民運動館正式啟用：https://www.sports.gov.tw/News_Content/309/23969
-- 2026-10-25 雲林縣立斗六棒球場：https://iplay.sports.gov.tw/gyminfo/index/5395?page=140&title=%u9801%u6578&PP=Traffic
 
 ## 相關網站
 - 獎補助資訊網：https://www.grantking.tw/
