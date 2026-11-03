@@ -4,36 +4,36 @@
 
 - 網址：https://web14.subsidyking.tw/
 - 主題：運動部新聞與運動政策
-- 更新：2026-11-03（每日自動更新）
+- 更新：2026-11-04（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-04 勝利泳池前籃球場：https://iplay.sports.gov.tw/gyminfo/index/26055?page=92&title=%u9801%u6578&PP=Traffic&facilityName=%E7%B1%83%E7%90%83%E5%A0%B4
+- 2026-11-04 新豐鄉新豐公園籃球場：https://iplay.sports.gov.tw/gyminfo/index/26155?page=83&title=%u9801%u6578&PP=Traffic&PP=Traffic
 - 2026-11-03 有氧健身樂齡運動指導班：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=46229
+- 2026-11-03 竹北市廣七休閒廣場：https://iplay.sports.gov.tw/gyminfo/index/11723?page=562&sort=%u4f9d%u8a55%u5206%u6392%u5e8f&title=%u9801%u6578&facilityName=%u7c43%u7403%u5834
+- 2026-11-03 賴清德總統出席2026總統盃3對3籃球賽全國決賽頒獎典禮 頒獎肯定選手拚戰精神：https://www.sports.gov.tw/News_Content/309/24002
+- 2026-11-03 2026達卡青年奧林匹克運動會揭開序幕 中華健兒蓄勢待發：https://www.sports.gov.tw/News_Content/309/24001
+- 2026-11-03 東和國中活動中心(禮堂)：https://iplay.sports.gov.tw/GymInfo/IndexPrint/2929
+- 2026-11-03 臺北教大實小田徑場：https://iplay.sports.gov.tw/gyminfo/IndexPrint/14151
+- 2026-11-03 南華國小活動中心：https://iplay.sports.gov.tw/gyminfo/IndexPrint/7319
+- 2026-11-03 中峰國小環形/直線慢跑道(非田徑場型)：https://iplay.sports.gov.tw/gyminfo/IndexPrint/2260
+- 2026-11-03 南昌森林運動公園匹克球場：https://iplay.sports.gov.tw/gyminfo/index/33446?page=1015&sort=%u4f9d%u8a55%u5206%u6392%u5e8f&title=%u9801%u6578
+- 2026-11-03 臺灣觀光學院排球場：https://iplay.sports.gov.tw/gyminfo/IndexPrint/7133
+- 2026-11-03 新上國小桌球場(館)：https://iplay.sports.gov.tw/GymInfo/IndexPrint/11839
+- 2026-11-03 【決標】運動部全民運動署「115-116年度各族群運動建議指引」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=BDM-1-71320282.xml
+- 2026-11-03 【決標】116年度宿舍物業管理委辦案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=BDM-1-71321120.xml
+- 2026-11-03 【公開招標】115年體育聯合辦公大樓資訊機房設置案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=TIQ-1-71150056.xml
+- 2026-11-03 【公開招標】116年度餐廳購買南北雜貨(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=TIQ-1-71150775.xml
+- 2026-11-03 【公開取得報價單或企劃書】116年度體育聯合辦公大樓室內、室外之盆栽租賃及園藝維護：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=TIQ-11-71146482.xml
+- 2026-11-03 【經公開評選或公開徵求之限制性招標】116年度棒、壘球場及綜合訓練場維護委外案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=TIQ-3-71149973.xml
 - 2026-11-02 運動部全球資訊網-最新消息-中華民國高級中等學校體育總會辦理「2026年世界中學生運動會」暨「2026年世界中學生運動會帕拉運動種類」機票採購案招標公告：https://www.sports.gov.tw/News_Content/310/23997
 - 2026-11-02 【決標】115年度建築物公共安全檢查簽證及防火避難設施與設備安全檢查申報：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261102&fn=BDM-1-71319987.xml
 - 2026-11-01 第52屆全國登山社團大會師：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=46355
 - 2026-11-01 「藍海練習生」多元族群 SUP 體驗與親水永續推廣計畫：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=46530
 - 2026-10-31 2026年合球下鄉紮根計畫：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=46488
 - 2026-10-31 2026就是棒全國社區棒球秋季聯賽：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=1&PKNO=46561
-- 2026-10-31 2026全民多元運動一起來：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=46509
-- 2026-10-31 凱道前化身全民籃球主場 總統盃3對3籃球賽熱血登場：https://www.sports.gov.tw/News_Content/309/24000
-- 2026-10-31 年度山林盛會沉浸式體驗展免費開放精彩系列活動接力登場：https://www.sports.gov.tw/News_Content/309/23996
-- 2026-10-31 年度山林盛會正式啟動 帶領民眾安全走進山林：https://www.sports.gov.tw/News_Content/309/23999
-- 2026-10-31 運動部全球資訊網-新聞專區-運動部攜手完善南高雄運動設施版圖小港運動中心開幕啟用：https://www.sports.gov.tw/News_Content/309/23998
-- 2026-10-30 大溪區僑愛社區發展協會理事長盃槌球錦標賽：https://isports.sa.gov.tw/Apps/TIS/TIS02/TIS0201M_02V1.aspx?SYS=TIS&MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=44973&ACT_SOURCE_TP_CD=02
-- 2026-10-30 精進水域告示標示 借鏡荷蘭推廣著衣求生：https://www.sports.gov.tw/News_Content/309/23994
-- 2026-10-30 【決標】115-116年度運動教練職能訓練營外住宿(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=BDM-1-71317834.xml
-- 2026-10-30 【經公開評選或公開徵求之限制性招標】116年度體育聯合辦公大樓機電消防空調系統設備保養維護案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-3-71147221.xml
-- 2026-10-30 【公開招標】116年度餐廳購買冷凍牛羊肉(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-1-71148321.xml
-- 2026-10-30 【公開招標】116年度餐廳購買冷凍調理食品(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-1-71148378.xml
-- 2026-10-30 【公開取得報價單或企劃書】115年度購置拳擊擂臺1座案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=ttd-71367601.xml
-- 2026-10-29 115.11.01 北二區 國立中央大學游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7523
-- 2026-10-29 115.10.31 東區 國立東華大學游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7522
-- 2026-10-29 115年連江縣體育會 匹克球運動推廣班系列活動(9-10月)：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=45992
-- 2026-10-29 連江縣115年親子跆拳道運動能力下半年指導班：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=3&PKNO=45999
-- 2026-10-29 【決標】115年度委託製作國光體育銀質、銅質獎章案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261029&fn=BDM-1-71317237.xml
-- 2026-10-29 【經公開評選或公開徵求之限制性招標】116年度公西靶場清潔維護委外案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261029&fn=TIQ-3-71146889.xml
 
 ## 相關網站
 - 獎補助資訊網：https://www.grantking.tw/
