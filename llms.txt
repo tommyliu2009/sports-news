@@ -4,11 +4,17 @@
 
 - 網址：https://web14.subsidyking.tw/
 - 主題：運動部新聞與運動政策
-- 更新：2026-11-05（每日自動更新）
+- 更新：2026-11-06（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-05 115.11.09 離島區 國立澎湖高級海事水產職業學校游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7530
+- 2026-11-05 115.11.07 北一區 國立臺灣科技大學游泳池游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7529
+- 2026-11-05 116年「全國性運動團體辦理全民運動相關活動計畫」申請補助經費案：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7525
+- 2026-11-05 【決標】運動部全民運動署「無動力飛行運動專業人員資格檢定暨輔導訪視計畫」勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=BDM-1-71323173.xml
+- 2026-11-05 【公開招標】115年度體育聯合辦公大樓空調改善工程案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=TIQ-1-71152596.xml
+- 2026-11-05 【公開取得報價單或企劃書】116年度餐廳購買西點麵包(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=ttd-71373027.xml
 - 2026-11-04 勝利泳池前籃球場：https://iplay.sports.gov.tw/gyminfo/index/26055?page=92&title=%u9801%u6578&PP=Traffic&facilityName=%E7%B1%83%E7%90%83%E5%A0%B4
 - 2026-11-04 新豐鄉新豐公園籃球場：https://iplay.sports.gov.tw/gyminfo/index/26155?page=83&title=%u9801%u6578&PP=Traffic&PP=Traffic
 - 2026-11-04 中華民國115年全國中正盃巧固球錦標賽：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=1&PKNO=46538
@@ -28,12 +34,6 @@
 - 2026-11-03 臺北教大實小田徑場：https://iplay.sports.gov.tw/gyminfo/IndexPrint/14151
 - 2026-11-03 南華國小活動中心：https://iplay.sports.gov.tw/gyminfo/IndexPrint/7319
 - 2026-11-03 中峰國小環形/直線慢跑道(非田徑場型)：https://iplay.sports.gov.tw/gyminfo/IndexPrint/2260
-- 2026-11-03 南昌森林運動公園匹克球場：https://iplay.sports.gov.tw/gyminfo/index/33446?page=1015&sort=%u4f9d%u8a55%u5206%u6392%u5e8f&title=%u9801%u6578
-- 2026-11-03 臺灣觀光學院排球場：https://iplay.sports.gov.tw/gyminfo/IndexPrint/7133
-- 2026-11-03 新上國小桌球場(館)：https://iplay.sports.gov.tw/GymInfo/IndexPrint/11839
-- 2026-11-03 【決標】運動部全民運動署「115-116年度各族群運動建議指引」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=BDM-1-71320282.xml
-- 2026-11-03 【決標】116年度宿舍物業管理委辦案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=BDM-1-71321120.xml
-- 2026-11-03 【公開招標】115年體育聯合辦公大樓資訊機房設置案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=TIQ-1-71150056.xml
 
 ## 相關網站
 - 獎補助資訊網：https://www.grantking.tw/
