@@ -4,12 +4,16 @@
 
 - 網址：https://web14.subsidyking.tw/
 - 主題：運動部新聞與運動政策
-- 更新：2026-11-08（每日自動更新）
+- 更新：2026-11-09（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
 - 2026-11-06 附件1_1151106運動部通函-檢送116年臺灣品牌國際賽事2.0計畫：https://www.sports.gov.tw/CL/7884
+- 2026-11-06 【決標】115年度伺服器暨周邊設備採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=BDM-1-71324055.xml
+- 2026-11-06 【經公開評選或公開徵求之限制性招標】「生成式AI工具軟體授權及導入整合服務」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=ttd-71374212.xml
+- 2026-11-06 【決標】115年度智慧運動分析平台與數據中台二期建置案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=BDM-1-71324074.xml
+- 2026-11-06 【公開取得報價單或企劃書】115年度ChatGPT商務版軟體採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=TIQ-11-71153786.xml
 - 2026-11-05 115.11.09 離島區 國立澎湖高級海事水產職業學校游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7530
 - 2026-11-05 115.11.07 北一區 國立臺灣科技大學游泳池游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7529
 - 2026-11-05 116年「全國性運動團體辦理全民運動相關活動計畫」申請補助經費案：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7525
@@ -17,6 +21,9 @@
 - 2026-11-05 【公開招標】115年度體育聯合辦公大樓空調改善工程案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=TIQ-1-71152596.xml
 - 2026-11-05 【公開取得報價單或企劃書】116年度餐廳購買西點麵包(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=ttd-71373027.xml
 - 2026-11-05 全臺336村里獲頒「115年運動村里認證」 多元文化結合全齡運動 共創健康活力社區：https://www.sports.gov.tw/News_Content/309/24038
+- 2026-11-05 115年地方特色全民運動活動申辦計畫：https://www.sa.gov.tw/News_Content/6358/23122
+- 2026-11-05 運動部全民運動署115年度企業聘用運動指導員補助方案實施計畫：https://www.sa.gov.tw/News_Content/181/20796
+- 2026-11-05 全國足球小將熱血競技 114學年度小學生足球賽決賽圓滿落幕：https://www.sa.gov.tw/News_Content/362/23266
 - 2026-11-04 勝利泳池前籃球場：https://iplay.sports.gov.tw/gyminfo/index/26055?page=92&title=%u9801%u6578&PP=Traffic&facilityName=%E7%B1%83%E7%90%83%E5%A0%B4
 - 2026-11-04 新豐鄉新豐公園籃球場：https://iplay.sports.gov.tw/gyminfo/index/26155?page=83&title=%u9801%u6578&PP=Traffic&PP=Traffic
 - 2026-11-04 中華民國115年全國中正盃巧固球錦標賽：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=1&PKNO=46538
@@ -27,13 +34,6 @@
 - 2026-11-04 【公開取得報價單或企劃書】116-117年度自動體外心臟電擊去顫器（AED）租賃保養維護案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261104&fn=ttd-71369157.xml
 - 2026-11-04 【公開取得報價單或企劃書】116年度培訓隊選手及教練按摩服務（開口契約）案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261104&fn=ttd-71369388.xml
 - 2026-11-04 【公開取得報價單或企劃書】116年度網路設備監控系統續約案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261104&fn=ttd-71372113.xml
-- 2026-11-04 【公開取得報價單或企劃書】116年度網路設備設定檔雲端備份續約案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261104&fn=ttd-71372115.xml
-- 2026-11-03 有氧健身樂齡運動指導班：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=46229
-- 2026-11-03 竹北市廣七休閒廣場：https://iplay.sports.gov.tw/gyminfo/index/11723?page=562&sort=%u4f9d%u8a55%u5206%u6392%u5e8f&title=%u9801%u6578&facilityName=%u7c43%u7403%u5834
-- 2026-11-03 賴清德總統出席2026總統盃3對3籃球賽全國決賽頒獎典禮 頒獎肯定選手拚戰精神：https://www.sports.gov.tw/News_Content/309/24002
-- 2026-11-03 2026達卡青年奧林匹克運動會揭開序幕 中華健兒蓄勢待發：https://www.sports.gov.tw/News_Content/309/24001
-- 2026-11-03 東和國中活動中心(禮堂)：https://iplay.sports.gov.tw/GymInfo/IndexPrint/2929
-- 2026-11-03 臺北教大實小田徑場：https://iplay.sports.gov.tw/gyminfo/IndexPrint/14151
 
 ## 相關網站
 - 獎補助資訊網：https://www.grantking.tw/
