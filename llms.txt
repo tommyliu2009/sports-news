@@ -4,11 +4,13 @@
 
 - 網址：https://web14.subsidyking.tw/
 - 主題：運動部新聞與運動政策
-- 更新：2026-11-09（每日自動更新）
+- 更新：2026-11-10（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-09 【民眾】Q14：我已經帶隊很多年了，還要上 48 小時訓練嗎？：https://isports.sa.gov.tw/Apps/Fessay.aspx?SYS=MTG&MENU_PRG_CD=95&ITEM_PRG_CD=&PKNO=7497
+- 2026-11-09 【經公開評選或公開徵求之限制性招標】115-116年高爾夫球場環境影響評估後續追蹤及永續管理研析計畫委辦案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71156107.xml
 - 2026-11-06 附件1_1151106運動部通函-檢送116年臺灣品牌國際賽事2.0計畫：https://www.sports.gov.tw/CL/7884
 - 2026-11-06 【決標】115年度伺服器暨周邊設備採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=BDM-1-71324055.xml
 - 2026-11-06 【經公開評選或公開徵求之限制性招標】「生成式AI工具軟體授權及導入整合服務」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=ttd-71374212.xml
@@ -32,8 +34,6 @@
 - 2026-11-04 【決標】116年度員工團體傷害保險採購案(開口契約 )：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261104&fn=BDM-1-71321575.xml
 - 2026-11-04 【經公開評選或公開徵求之限制性招標】運動部全民運動署「潛水指導人員輔導與管理策略研究計畫」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261104&fn=TIQ-3-71151587.xml
 - 2026-11-04 【公開取得報價單或企劃書】116-117年度自動體外心臟電擊去顫器（AED）租賃保養維護案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261104&fn=ttd-71369157.xml
-- 2026-11-04 【公開取得報價單或企劃書】116年度培訓隊選手及教練按摩服務（開口契約）案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261104&fn=ttd-71369388.xml
-- 2026-11-04 【公開取得報價單或企劃書】116年度網路設備監控系統續約案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261104&fn=ttd-71372113.xml
 
 ## 相關網站
 - 獎補助資訊網：https://www.grantking.tw/
