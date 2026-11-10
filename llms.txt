@@ -4,11 +4,15 @@
 
 - 網址：https://web14.subsidyking.tw/
 - 主題：運動部新聞與運動政策
-- 更新：2026-11-10（每日自動更新）
+- 更新：2026-11-11（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-10 【決標】運動推手獎(表揚活動)獎座暨視覺識別設計委辦案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=BDM-1-71326375.xml
+- 2026-11-10 【公開招標】116年度餐廳購買冷凍牛羊肉(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=TIQ-1-71158770.xml
+- 2026-11-10 【經公開評選或公開徵求之限制性招標】115至116年度公文檔案建檔及清查作業採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=TIQ-3-71158786.xml
+- 2026-11-10 【公開招標】116年度餐廳購買冷凍調理食品(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=TIQ-1-71158789.xml
 - 2026-11-09 【民眾】Q14：我已經帶隊很多年了，還要上 48 小時訓練嗎？：https://isports.sa.gov.tw/Apps/Fessay.aspx?SYS=MTG&MENU_PRG_CD=95&ITEM_PRG_CD=&PKNO=7497
 - 2026-11-09 【經公開評選或公開徵求之限制性招標】115-116年高爾夫球場環境影響評估後續追蹤及永續管理研析計畫委辦案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71156107.xml
 - 2026-11-06 附件1_1151106運動部通函-檢送116年臺灣品牌國際賽事2.0計畫：https://www.sports.gov.tw/CL/7884
@@ -26,14 +30,10 @@
 - 2026-11-05 115年地方特色全民運動活動申辦計畫：https://www.sa.gov.tw/News_Content/6358/23122
 - 2026-11-05 運動部全民運動署115年度企業聘用運動指導員補助方案實施計畫：https://www.sa.gov.tw/News_Content/181/20796
 - 2026-11-05 全國足球小將熱血競技 114學年度小學生足球賽決賽圓滿落幕：https://www.sa.gov.tw/News_Content/362/23266
+- 2026-11-05 公告!運動部全民運動署「115年度新興及極限運動」運動項目認定、經費申請計畫與諮詢輔導計畫：https://www.sa.gov.tw/News_Content/181/21315
+- 2026-11-05 115年度山域嚮導訓練機構辦理山域嚮導業務保險費用補助說明：https://www.sa.gov.tw/News_Content/181/20803
 - 2026-11-04 勝利泳池前籃球場：https://iplay.sports.gov.tw/gyminfo/index/26055?page=92&title=%u9801%u6578&PP=Traffic&facilityName=%E7%B1%83%E7%90%83%E5%A0%B4
 - 2026-11-04 新豐鄉新豐公園籃球場：https://iplay.sports.gov.tw/gyminfo/index/26155?page=83&title=%u9801%u6578&PP=Traffic&PP=Traffic
-- 2026-11-04 中華民國115年全國中正盃巧固球錦標賽：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=1&PKNO=46538
-- 2026-11-04 橋頭區青埔捷運站下方滑板場：https://iplay.sports.gov.tw/gyminfo/index/30594?page=15&RentState=F&SportCenter=False&title=%u9801%u6578&PP=Traffic&facilityName=%u9053%u5357%u5de6%u5cb8%u6cb3%u6ff1%u516c%u5712%u8db3%u7403%u5834&facilityName=%u7db2%u7403%u5834
-- 2026-11-04 臺南市平實排球場：https://iplay.sports.gov.tw/gyminfo/index/30290?page=43&sort=%u4f9d%u8a55%u5206%u6392%u5e8f&title=%u9801%u6578&PP=Traffic
-- 2026-11-04 【決標】116年度員工團體傷害保險採購案(開口契約 )：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261104&fn=BDM-1-71321575.xml
-- 2026-11-04 【經公開評選或公開徵求之限制性招標】運動部全民運動署「潛水指導人員輔導與管理策略研究計畫」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261104&fn=TIQ-3-71151587.xml
-- 2026-11-04 【公開取得報價單或企劃書】116-117年度自動體外心臟電擊去顫器（AED）租賃保養維護案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261104&fn=ttd-71369157.xml
 
 ## 相關網站
 - 獎補助資訊網：https://www.grantking.tw/
