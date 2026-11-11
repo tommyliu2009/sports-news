@@ -4,17 +4,24 @@
 
 - 網址：https://web14.subsidyking.tw/
 - 主題：運動部新聞與運動政策
-- 更新：2026-11-11（每日自動更新）
+- 更新：2026-11-12（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-12 115.11.14 南一區 國立成功大學游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7532
+- 2026-11-11 2026 CTBC TECH Certified 「高爾夫運動技能等級評定三段九級（369洞）計畫學校與社區推廣系列活動：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=46496
+- 2026-11-11 2026盲人環台生命教育 & 公益咖啡談心會：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=SEC&MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=7531
+- 2026-11-11 【公開取得報價單或企劃書】115年度球類館技擊館熱水系統附屬設施改善：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=TIQ-11-71158931.xml
+- 2026-11-11 【經公開評選或公開徵求之限制性招標】「116-117年度山域嚮導訓練與檢定及複訓授證制度相關事務訪視輔導計畫」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=TIQ-3-71159573.xml
 - 2026-11-10 【決標】運動推手獎(表揚活動)獎座暨視覺識別設計委辦案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=BDM-1-71326375.xml
 - 2026-11-10 【公開招標】116年度餐廳購買冷凍牛羊肉(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=TIQ-1-71158770.xml
 - 2026-11-10 【經公開評選或公開徵求之限制性招標】115至116年度公文檔案建檔及清查作業採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=TIQ-3-71158786.xml
 - 2026-11-10 【公開招標】116年度餐廳購買冷凍調理食品(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=TIQ-1-71158789.xml
 - 2026-11-09 【民眾】Q14：我已經帶隊很多年了，還要上 48 小時訓練嗎？：https://isports.sa.gov.tw/Apps/Fessay.aspx?SYS=MTG&MENU_PRG_CD=95&ITEM_PRG_CD=&PKNO=7497
 - 2026-11-09 【經公開評選或公開徵求之限制性招標】115-116年高爾夫球場環境影響評估後續追蹤及永續管理研析計畫委辦案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71156107.xml
+- 2026-11-09 兩岸運動交流相關注意事項：https://www.sports.gov.tw/CP/5917
+- 2026-11-09 運動部全球資訊網-新聞專區-運動部臺灣品牌國際賽論壇聚焦國際青少年運動賽事交流：https://www.sports.gov.tw/News_Content/309/23464
 - 2026-11-06 附件1_1151106運動部通函-檢送116年臺灣品牌國際賽事2.0計畫：https://www.sports.gov.tw/CL/7884
 - 2026-11-06 【決標】115年度伺服器暨周邊設備採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=BDM-1-71324055.xml
 - 2026-11-06 【經公開評選或公開徵求之限制性招標】「生成式AI工具軟體授權及導入整合服務」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=ttd-71374212.xml
@@ -27,16 +34,8 @@
 - 2026-11-05 【公開招標】115年度體育聯合辦公大樓空調改善工程案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=TIQ-1-71152596.xml
 - 2026-11-05 【公開取得報價單或企劃書】116年度餐廳購買西點麵包(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=ttd-71373027.xml
 - 2026-11-05 全臺336村里獲頒「115年運動村里認證」 多元文化結合全齡運動 共創健康活力社區：https://www.sports.gov.tw/News_Content/309/24038
-- 2026-11-05 115年地方特色全民運動活動申辦計畫：https://www.sa.gov.tw/News_Content/6358/23122
-- 2026-11-05 運動部全民運動署115年度企業聘用運動指導員補助方案實施計畫：https://www.sa.gov.tw/News_Content/181/20796
-- 2026-11-05 全國足球小將熱血競技 114學年度小學生足球賽決賽圓滿落幕：https://www.sa.gov.tw/News_Content/362/23266
-- 2026-11-05 公告!運動部全民運動署「115年度新興及極限運動」運動項目認定、經費申請計畫與諮詢輔導計畫：https://www.sa.gov.tw/News_Content/181/21315
-- 2026-11-05 115年度山域嚮導訓練機構辦理山域嚮導業務保險費用補助說明：https://www.sa.gov.tw/News_Content/181/20803
-- 2026-11-04 勝利泳池前籃球場：https://iplay.sports.gov.tw/gyminfo/index/26055?page=92&title=%u9801%u6578&PP=Traffic&facilityName=%E7%B1%83%E7%90%83%E5%A0%B4
-- 2026-11-04 新豐鄉新豐公園籃球場：https://iplay.sports.gov.tw/gyminfo/index/26155?page=83&title=%u9801%u6578&PP=Traffic&PP=Traffic
 
 ## 相關網站
 - 獎補助資訊網：https://www.grantking.tw/
-- 補助王：https://www.subsidyking.tw/
 - 台灣政府補助新聞網：https://news.subsidyking.tw/
 - 仁禾管理顧問：https://web18.subsidyking.tw/
