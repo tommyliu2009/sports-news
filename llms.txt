@@ -4,7 +4,7 @@
 
 - 網址：https://web14.subsidyking.tw/
 - 主題：運動部新聞與運動政策
-- 更新：2026-11-14（每日自動更新）
+- 更新：2026-11-15（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
@@ -25,6 +25,8 @@
 - 2026-11-11 【公開取得報價單或企劃書】115年度球類館技擊館熱水系統附屬設施改善：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=TIQ-11-71158931.xml
 - 2026-11-11 【經公開評選或公開徵求之限制性招標】「116-117年度山域嚮導訓練與檢定及複訓授證制度相關事務訪視輔導計畫」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=TIQ-3-71159573.xml
 - 2026-11-11 運動部全球資訊網-新聞專區-多元友善具特色全民運動好選擇運動部補助改建新生運動館今（27）日開幕：https://www.sports.gov.tw/News_Content/309/23446
+- 2026-11-11 無動力飛行運動知能研討會 跨域交流開創產業新視野：https://www.sports.gov.tw/News_Content/309/24115
+- 2026-11-11 國民體適能指導員資格檢定辦法修正草案分區說明會9月登場：https://www.sports.gov.tw/News_Content/309/23634
 - 2026-11-10 【決標】運動推手獎(表揚活動)獎座暨視覺識別設計委辦案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=BDM-1-71326375.xml
 - 2026-11-10 【公開招標】116年度餐廳購買冷凍牛羊肉(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=TIQ-1-71158770.xml
 - 2026-11-10 【經公開評選或公開徵求之限制性招標】115至116年度公文檔案建檔及清查作業採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=TIQ-3-71158786.xml
@@ -32,8 +34,6 @@
 - 2026-11-10 補助案名稱： 培育國際運動事務人才， 參與國際運動組織事務等：https://www.sports.gov.tw/CL/7890
 - 2026-11-10 116年度國際運動交流工作計畫：https://www.sports.gov.tw/CL/7631
 - 2026-11-10 運動部全球資訊網-新聞專區-運動空間便利化運動部補助臺中市大龍樂活運動館今開工動土：https://www.sports.gov.tw/News_Content/309/23160
-- 2026-11-10 運動部全球資訊網-新聞專區-運動部召開首次運動永續發展會報攜手打造「運動壯大臺灣、永續引領未來」新願景：https://www.sports.gov.tw/News_Content/309/23126
-- 2026-11-10 運動部全球資訊網-新聞專區-全民署社區運動俱樂部申請倒數3天：https://www.sports.gov.tw/News_Content/309/21037
 
 ## 相關網站
 - 獎補助資訊網：https://www.grantking.tw/
