@@ -4,11 +4,13 @@
 
 - 網址：https://web14.subsidyking.tw/
 - 主題：運動部新聞與運動政策
-- 更新：2026-11-15（每日自動更新）
+- 更新：2026-11-16（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-15 達摩易筋經氣功推廣：https://isports.sa.gov.tw/Apps/TIS/TIS02/TIS0201M_02V1.aspx?SYS=TIS&MENU_PRG_CD=1&ITEM_PRG_CD=3&PKNO=44981&ACT_SOURCE_TP_CD=02
+- 2026-11-13 【公開招標】115年度匹克球虛擬主機等設備採購：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=TIQ-1-71162881.xml
 - 2026-11-12 115.11.14 南一區 國立成功大學游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7532
 - 2026-11-12 法務部調查局「餘音與光影：凝視島嶼的脈動」國家安全線上影展：https://www.sports.gov.tw/CP/7586
 - 2026-11-12 【115年表揚活動】動出職場永續競爭力 全民運動署表揚企業聘用運動指導員：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=SGM&MENU_PRG_CD=1&ITEM_PRG_CD=&PKNO=7534
@@ -32,8 +34,6 @@
 - 2026-11-10 【經公開評選或公開徵求之限制性招標】115至116年度公文檔案建檔及清查作業採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=TIQ-3-71158786.xml
 - 2026-11-10 【公開招標】116年度餐廳購買冷凍調理食品(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=TIQ-1-71158789.xml
 - 2026-11-10 補助案名稱： 培育國際運動事務人才， 參與國際運動組織事務等：https://www.sports.gov.tw/CL/7890
-- 2026-11-10 116年度國際運動交流工作計畫：https://www.sports.gov.tw/CL/7631
-- 2026-11-10 運動部全球資訊網-新聞專區-運動空間便利化運動部補助臺中市大龍樂活運動館今開工動土：https://www.sports.gov.tw/News_Content/309/23160
 
 ## 相關網站
 - 獎補助資訊網：https://www.grantking.tw/
