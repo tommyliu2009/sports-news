@@ -4,15 +4,20 @@
 
 - 網址：https://web14.subsidyking.tw/
 - 主題：運動部新聞與運動政策
-- 更新：2026-11-17（每日自動更新）
+- 更新：2026-11-21（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-20 我國2026達卡青年奧運代表團勇奪2金4銀3銅創歷屆獎牌總數新高 運動部李洋部長設宴慰勉：https://www.sports.gov.tw/News_Content/309/24123
+- 2026-11-20 志同道合 聚力向前行 全民運動署表揚115年績優運動志工及團體：https://www.sports.gov.tw/News_Content/309/24124
+- 2026-11-18 115.11.21 中區 臺中文山溫水游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=LGM&MENU_PRG_CD=1&ITEM_PRG_CD=&PKNO=7537
+- 2026-11-17 運動部全球資訊網-新聞專區-運動部欣見落實運動外交中華帕總與大洋洲帕委會簽署MOU：https://www.sports.gov.tw/News_Content/309/20893
 - 2026-11-16 【媒合服務】11月份運動指導員精選職缺報報：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7536
 - 2026-11-16 第十四屆徐生明國際少棒錦標賽：https://isports.sa.gov.tw/apps/TIS/TIS02/TIS0201M_02V1.aspx?MENU_PRG_CD=1&ITEM_PRG_CD=1&PKNO=46498
 - 2026-11-15 達摩易筋經氣功推廣：https://isports.sa.gov.tw/Apps/TIS/TIS02/TIS0201M_02V1.aspx?SYS=TIS&MENU_PRG_CD=1&ITEM_PRG_CD=3&PKNO=44981&ACT_SOURCE_TP_CD=02
 - 2026-11-13 【公開招標】115年度匹克球虛擬主機等設備採購：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=TIQ-1-71162881.xml
+- 2026-11-13 運動部全民運動署114學年度第17屆國中小學生普及化運動計畫—國小5至6年級樂樂棒球全國決賽：https://www.sa.gov.tw/News_Content/181/20745
 - 2026-11-12 115.11.14 南一區 國立成功大學游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7532
 - 2026-11-12 法務部調查局「餘音與光影：凝視島嶼的脈動」國家安全線上影展：https://www.sports.gov.tw/CP/7586
 - 2026-11-12 【115年表揚活動】動出職場永續競爭力 全民運動署表揚企業聘用運動指導員：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=SGM&MENU_PRG_CD=1&ITEM_PRG_CD=&PKNO=7534
@@ -29,11 +34,6 @@
 - 2026-11-11 【公開取得報價單或企劃書】115年度球類館技擊館熱水系統附屬設施改善：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=TIQ-11-71158931.xml
 - 2026-11-11 【經公開評選或公開徵求之限制性招標】「116-117年度山域嚮導訓練與檢定及複訓授證制度相關事務訪視輔導計畫」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=TIQ-3-71159573.xml
 - 2026-11-11 運動部全球資訊網-新聞專區-多元友善具特色全民運動好選擇運動部補助改建新生運動館今（27）日開幕：https://www.sports.gov.tw/News_Content/309/23446
-- 2026-11-11 無動力飛行運動知能研討會 跨域交流開創產業新視野：https://www.sports.gov.tw/News_Content/309/24115
-- 2026-11-11 國民體適能指導員資格檢定辦法修正草案分區說明會9月登場：https://www.sports.gov.tw/News_Content/309/23634
-- 2026-11-10 【決標】運動推手獎(表揚活動)獎座暨視覺識別設計委辦案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=BDM-1-71326375.xml
-- 2026-11-10 【公開招標】116年度餐廳購買冷凍牛羊肉(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=TIQ-1-71158770.xml
-- 2026-11-10 【經公開評選或公開徵求之限制性招標】115至116年度公文檔案建檔及清查作業採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=TIQ-3-71158786.xml
 
 ## 相關網站
 - 獎補助資訊網：https://www.grantking.tw/
