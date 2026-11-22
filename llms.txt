@@ -19,8 +19,6 @@
 - 2026-11-19 運動i臺灣2.0成果圓滿豐碩 116年全民運動署攜手22縣市迎向全民i運動新篇章：https://www.sports.gov.tw/News_Content/309/24133
 - 2026-11-18 115.11.21 中區 臺中文山溫水游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=LGM&MENU_PRG_CD=1&ITEM_PRG_CD=&PKNO=7537
 - 2026-11-18 115學年度UBL大專棒球聯賽新賽季 公開一級12月7日開打：https://www.sports.gov.tw/News_Content/309/24121
-- 2026-11-18 新屋區籃球場(新屋國小旁)：https://iplay.sports.gov.tw/gyminfo/IndexPrint/16618
-- 2026-11-18 泰武鄉吾拉魯滋部落文化聚會所：https://iplay.sports.gov.tw/gyminfo/IndexPrint/33407
 - 2026-11-18 臺東縣豐田公園簡易壘球場：https://iplay.sports.gov.tw/gyminfo/index/26245?page=81&title=%u9801%u6578&facilityName=%u6ed1%u8f2a%u5834&jumpTo=%E8%A8%AD%E6%96%BD%E4%BB%8B%E7%B4%B9
 - 2026-11-17 運動部全球資訊網-新聞專區-運動部欣見落實運動外交中華帕總與大洋洲帕委會簽署MOU：https://www.sports.gov.tw/News_Content/309/20893
 - 2026-11-17 高爾夫打擊練習場：https://iplay.sports.gov.tw/gyminfo/index/24061?page=132&title=%u9801%u6578&facilityName=%u7c43%u7403%u5834%u9928
@@ -34,6 +32,8 @@
 - 2026-11-12 法務部調查局「餘音與光影：凝視島嶼的脈動」國家安全線上影展：https://www.sports.gov.tw/CP/7586
 - 2026-11-12 【115年表揚活動】動出職場永續競爭力 全民運動署表揚企業聘用運動指導員：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=SGM&MENU_PRG_CD=1&ITEM_PRG_CD=&PKNO=7534
 - 2026-11-12 艾格探險有限公司-115年雪攀嚮導檢定第124場次：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=MTG&MENU_PRG_CD=2&ITEM_PRG_CD=3&PKNO=7518
+- 2026-11-12 運動部全球資訊網-新聞專區-運動部公布2026年第20屆愛知名古屋亞運34種運動代表隊名單：https://www.sports.gov.tw/News_Content/309/23406
+- 2026-11-12 115.11.15 南二區 國立中山大學游泳池 救生員資格檢定應檢人名單：https://isports.sa.gov.tw/apps/News.aspx?SYS=TIS&PKNO=7533
 
 ## 相關網站
 - 獎補助資訊網：https://www.grantking.tw/
