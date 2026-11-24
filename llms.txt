@@ -4,11 +4,14 @@
 
 - 網址：https://web14.subsidyking.tw/
 - 主題：運動部新聞與運動政策
-- 更新：2026-11-24（每日自動更新）
+- 更新：2026-11-25（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-24 桃園特殊教育學校活動中心：https://iplay.sports.gov.tw/GymInfo/IndexPrint/23921
+- 2026-11-24 【決標】運動部全民運動署「116年救生員資格檢定及複訓事務暨訪視輔導計畫」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71340057.xml
+- 2026-11-24 【公開招標】115年度匹克球虛擬主機等設備採購：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=TIQ-1-71173830.xml
 - 2026-11-23 【健康樂活系列】第173場《逆轉發炎體質：啟動全方位修復力》：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=SEC&MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=7539
 - 2026-11-23 【平臺服務升級】使用者注意事項：https://sponsor.sports.gov.tw/News/NewsView?newsId=16&paramToken=V6BLt2ZmQymNbwg8V4qRRA%253d%253d
 - 2026-11-23 【公開招標】115年度體育聯合辦公大樓空調改善工程案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=TIQ-1-71171582.xml
@@ -17,6 +20,7 @@
 - 2026-11-23 【經公開評選或公開徵求之限制性招標】116年度身心障礙運動推廣及培力計畫委託專業服務案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=TIQ-3-71171559.xml
 - 2026-11-23 【公開取得報價單或企劃書】115年度可攜式超音波骨質密度分析儀：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=TIQ-11-71172354.xml
 - 2026-11-23 【公開取得報價單或企劃書】116年度員工團體傷害保險(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=ttd-71394830.xml
+- 2026-11-22 土城綜合球場-網球場：https://iplay.sports.gov.tw/gyminfo/index/26243?page=81&title=%u9801%u6578&facilityName=%u6ed1%u8f2a%u5834&PP=Traffic
 - 2026-11-20 我國2026達卡青年奧運代表團勇奪2金4銀3銅創歷屆獎牌總數新高 運動部李洋部長設宴慰勉：https://www.sports.gov.tw/News_Content/309/24123
 - 2026-11-20 志同道合 聚力向前行 全民運動署表揚115年績優運動志工及團體：https://www.sports.gov.tw/News_Content/309/24124
 - 2026-11-20 運動部全球資訊網-新聞專區-運動部舉辦行政研習會提醒特定體育團體年度工作提報：https://www.sports.gov.tw/News_Content/309/23955
@@ -25,15 +29,11 @@
 - 2026-11-20 【公開招標】116年度餐廳購買冷凍牛羊肉(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=TIQ-1-71171189.xml
 - 2026-11-20 申請對象 直轄市、縣（市）政府、全國性運動團體、公私立大專校院或全國性運動學術團體 體：https://www.sports.gov.tw/CL/7898
 - 2026-11-20 申請對象 全國性運動團體、公私立大專校院或全國性運動學術團體：https://www.sports.gov.tw/CL/7897
+- 2026-11-20 全民運動與健康政策國際研討會受理報名中 邀您一起動健未來：https://www.sports.gov.tw/News_Content/309/23702
+- 2026-11-20 運動部全球資訊網-新聞專區-體操協會爭議運動部要求公開道歉並撤免秘書長：https://www.sports.gov.tw/News_Content/309/23776
 - 2026-11-19 運動部全球資訊網-新聞專區-運動部邀請50家以上企業共議運動平權與ESG：https://www.sports.gov.tw/News_Content/309/24132
 - 2026-11-19 健力選手洪秀靜勇奪2026年世界裝備公開健力錦標賽金牌 賴清德總統致電申賀：https://www.sports.gov.tw/News_Content/309/24110
 - 2026-11-19 林姿妤與田曉雯勇奪2026年世界帕拉桌球錦標賽女子雙打金牌 賴清德總統致電申賀：https://www.sports.gov.tw/News_Content/309/24117
-- 2026-11-19 卓榮泰院長出席2026總統盃街舞大賽頒獎典禮 肯定選手發揮創意 鼓勵以街舞展現臺灣活力：https://www.sports.gov.tw/News_Content/309/24116
-- 2026-11-19 運動i臺灣2.0成果圓滿豐碩116年全民運動署攜手22縣市迎向全民i運動新篇章2026-11-19 - 運動部全民運動署：https://www.sa.gov.tw/News_Content/362/24133
-- 2026-11-19 運動i臺灣2.0成果圓滿豐碩 116年全民運動署攜手22縣市迎向全民i運動新篇章：https://www.sports.gov.tw/News_Content/309/24133
-- 2026-11-19 115年全大運聖火於阿里山引燃揭序幕 雙火合一點燃永續願景：https://www.sports.gov.tw/News_Content/309/20548
-- 2026-11-19 企業永續再進化 運動平權納入ESG評鑑制度：https://www.sports.gov.tw/News_Content/309/20892
-- 2026-11-19 【決標】115年度國光體育獎章暨運動科學研究獎勵頒獎典禮委辦案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261119&fn=BDM-1-71335466.xml
 
 ## 相關網站
 - 獎補助資訊網：https://www.grantking.tw/
