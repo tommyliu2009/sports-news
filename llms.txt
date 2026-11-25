@@ -4,14 +4,21 @@
 
 - 網址：https://web14.subsidyking.tw/
 - 主題：運動部新聞與運動政策
-- 更新：2026-11-25（每日自動更新）
+- 更新：2026-11-26（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-25 運動新南向政策-學校國際運動交流：https://www.sports.gov.tw/CL/7901
+- 2026-11-25 永華體育園區-臺南市立橄欖球場：https://iplay.sports.gov.tw/gyminfo/index/5340?page=909&title=%u9801%u6578
+- 2026-11-25 桃園市大溪河濱公園：https://iplay.sports.gov.tw/gyminfo/index/33508?tpage907&title=%u9801%u6578&facilityName=%u624b%u7403%u5834(%u9928)
+- 2026-11-25 【經公開評選或公開徵求之限制性招標】辦理114及115年度奧亞運特定運動團體訪視計畫委辦案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-3-71174144.xml
+- 2026-11-25 【經公開評選或公開徵求之限制性招標】運動部全民運動署「116年度運動村里認證案」：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261125&fn=TIQ-3-71174965.xml
 - 2026-11-24 桃園特殊教育學校活動中心：https://iplay.sports.gov.tw/GymInfo/IndexPrint/23921
 - 2026-11-24 【決標】運動部全民運動署「116年救生員資格檢定及複訓事務暨訪視輔導計畫」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=BDM-1-71340057.xml
 - 2026-11-24 【公開招標】115年度匹克球虛擬主機等設備採購：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261124&fn=TIQ-1-71173830.xml
+- 2026-11-24 山佳國民小學籃球場：https://iplay.sports.gov.tw/gyminfo/IndexPrint/9156
+- 2026-11-24 嘉義市西區全民運動館：https://iplay.sports.gov.tw/gyminfo/IndexPrint/33471
 - 2026-11-23 【健康樂活系列】第173場《逆轉發炎體質：啟動全方位修復力》：https://isports.sa.gov.tw/apps/Fessay.aspx?SYS=SEC&MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=7539
 - 2026-11-23 【平臺服務升級】使用者注意事項：https://sponsor.sports.gov.tw/News/NewsView?newsId=16&paramToken=V6BLt2ZmQymNbwg8V4qRRA%253d%253d
 - 2026-11-23 【公開招標】115年度體育聯合辦公大樓空調改善工程案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=TIQ-1-71171582.xml
@@ -27,13 +34,6 @@
 - 2026-11-20 【決標】「智慧羽球示範場域建置及驗證服務案」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337160.xml
 - 2026-11-20 【決標】運動部全民運動署「115學年度小學生足球賽」勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337420.xml
 - 2026-11-20 【公開招標】116年度餐廳購買冷凍牛羊肉(開口契約)案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=TIQ-1-71171189.xml
-- 2026-11-20 申請對象 直轄市、縣（市）政府、全國性運動團體、公私立大專校院或全國性運動學術團體 體：https://www.sports.gov.tw/CL/7898
-- 2026-11-20 申請對象 全國性運動團體、公私立大專校院或全國性運動學術團體：https://www.sports.gov.tw/CL/7897
-- 2026-11-20 全民運動與健康政策國際研討會受理報名中 邀您一起動健未來：https://www.sports.gov.tw/News_Content/309/23702
-- 2026-11-20 運動部全球資訊網-新聞專區-體操協會爭議運動部要求公開道歉並撤免秘書長：https://www.sports.gov.tw/News_Content/309/23776
-- 2026-11-19 運動部全球資訊網-新聞專區-運動部邀請50家以上企業共議運動平權與ESG：https://www.sports.gov.tw/News_Content/309/24132
-- 2026-11-19 健力選手洪秀靜勇奪2026年世界裝備公開健力錦標賽金牌 賴清德總統致電申賀：https://www.sports.gov.tw/News_Content/309/24110
-- 2026-11-19 林姿妤與田曉雯勇奪2026年世界帕拉桌球錦標賽女子雙打金牌 賴清德總統致電申賀：https://www.sports.gov.tw/News_Content/309/24117
 
 ## 相關網站
 - 獎補助資訊網：https://www.grantking.tw/
